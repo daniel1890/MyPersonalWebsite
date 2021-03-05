@@ -1,0 +1,58 @@
+[
+  {
+    "id": "stavendiagram",
+    "img": "",
+    "url": "https://github.com/daniel1890/Java-Beginner-Processing3/tree/main/ModuleOpgave1",
+    "title": "Stavendiagram met een trendlijn",
+    "description": "Simpel stavendiagram project gemaakt met processing 3.0, dit is het eerste project wat ik gemaakt heb."
+  },
+
+  {
+    "id": "schietschijf-spel",
+    "img": "",
+    "url": "https://github.com/daniel1890/Java-Beginner-Processing3/tree/main/ModuleOpgave4",
+    "title": "Schietschijf spel",
+    "description": "Een project waar een schietschijf naar links en rechts beweegt, wanneer de speler erop schiet verdient zij punten. Geschreven in processing 3.0."
+  },
+
+  {
+    "id": "bmi-sliders",
+    "img": "",
+    "url": "https://github.com/daniel1890/Java-Beginner-Processing3/tree/main/ModuleOpgave5",
+    "title": "BMI berekenen",
+    "description": "Een applicatie waar de gebruiker met twee sliders haar BMI kan berekenen."
+  },
+
+  {
+    "id": "klas-statistiekfuncties",
+    "img": "",
+    "url": "https://github.com/daniel1890/Java-Beginner-Processing3/tree/main/ModuleOpgave7",
+    "title": "Klas cijferdiagram",
+    "description": "Een applicatie die een diagram tekent met cijfers die behaalt zijn door klassen in een school, het diagram laat hoeveel elk cijfer binnen 1-10 behaalt is."
+  },
+
+  {
+    "id": "muntklikspelletje",
+    "img": "",
+    "url": "https://github.com/daniel1890/Java-Beginner-Processing3/tree/main/ModuleOpgave8",
+    "title": "Munt klikspelletje",
+    "description": "In het begin van elk level zijn er een aantal munten die in ruststaat wit zijn, het doel is om alle munten in zo min mogelijk beurten allemaal zwart te maken door op de munten te klikken."
+  },
+
+  {
+    "id": "kaartjesautomaatprocessing",
+    "img": "",
+    "url": "https://github.com/daniel1890/KaartjesAutomaatJavaProcessing3.0",
+    "title": "Filmkaartjes automaat",
+    "description": "Een user interface waarin de gebruiker een film kan selecteren en deze kan afrekenen, hierna krijgt de gebruiker een kaartje geprint."
+  }
+
+
+
+
+
+
+
+
+
+]
