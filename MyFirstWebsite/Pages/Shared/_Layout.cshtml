@@ -11,7 +11,9 @@
     <header>
         <nav class="navbar navbar-expand-sm navbar-toggleable-sm navbar-light bg-white border-bottom box-shadow mb-3">
             <div class="container">
-                <a class="navbar-brand" asp-area="" asp-page="/Index">Daniël Codes</a>
+                <a href="/Index">
+                    <img class="navbar-brand" asp-area="" asp-page="/Index" src="https://user-images.githubusercontent.com/59751559/110150487-9e2f2180-7ddf-11eb-9e3c-cc210e3bad87.png" width="40" height="50">
+                </a>
                 <button class="navbar-toggler" type="button" data-toggle="collapse" data-target=".navbar-collapse" aria-controls="navbarSupportedContent"
                         aria-expanded="false" aria-label="Toggle navigation">
                     <span class="navbar-toggler-icon"></span>
@@ -22,7 +24,10 @@
                             <a class="nav-link text-dark" asp-area="" asp-page="/Index">Home</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link text-dark" asp-area="" asp-page="/Privacy">Projects</a>
+                            <a class="nav-link text-dark" asp-area="" asp-page="/Projects">Projects</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link text-dark" asp-area="" asp-page="/AboutMe">About Me</a>
                         </li>
                     </ul>
                 </div>
@@ -37,7 +42,7 @@
 
     <footer class="border-top footer text-muted">
         <div class="container">
-            &copy; 2021 - Daniël Codes - <a asp-area="" asp-page="/Privacy">About me</a>
+            &copy; 2021 - Daniël Codes - <a asp-area="" asp-page="/AboutMe">About me</a>
         </div>
     </footer>
 

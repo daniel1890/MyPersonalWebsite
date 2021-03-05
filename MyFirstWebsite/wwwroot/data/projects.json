@@ -1,7 +1,7 @@
 [
   {
     "id": "stavendiagram",
-    "img": "",
+    "img": "https://user-images.githubusercontent.com/59751559/110157307-4f39ba00-7de8-11eb-8cbc-4e5c04942d53.PNG",
     "url": "https://github.com/daniel1890/Java-Beginner-Processing3/tree/main/ModuleOpgave1",
     "title": "Stavendiagram met een trendlijn",
     "description": "Simpel stavendiagram project gemaakt met processing 3.0, dit is het eerste project wat ik gemaakt heb."
@@ -9,7 +9,7 @@
 
   {
     "id": "schietschijf-spel",
-    "img": "",
+    "img": "https://user-images.githubusercontent.com/59751559/110157313-506ae700-7de8-11eb-9a92-df232ce587df.PNG",
     "url": "https://github.com/daniel1890/Java-Beginner-Processing3/tree/main/ModuleOpgave4",
     "title": "Schietschijf spel",
     "description": "Een project waar een schietschijf naar links en rechts beweegt, wanneer de speler erop schiet verdient zij punten. Geschreven in processing 3.0."
@@ -17,7 +17,7 @@
 
   {
     "id": "bmi-sliders",
-    "img": "",
+    "img": "https://user-images.githubusercontent.com/59751559/110157305-4ea12380-7de8-11eb-8860-e3b2da02bf87.PNG",
     "url": "https://github.com/daniel1890/Java-Beginner-Processing3/tree/main/ModuleOpgave5",
     "title": "BMI berekenen",
     "description": "Een applicatie waar de gebruiker met twee sliders haar BMI kan berekenen."
@@ -25,7 +25,7 @@
 
   {
     "id": "klas-statistiekfuncties",
-    "img": "",
+    "img": "https://user-images.githubusercontent.com/59751559/110157312-506ae700-7de8-11eb-9062-4cc1a94a2ba0.PNG",
     "url": "https://github.com/daniel1890/Java-Beginner-Processing3/tree/main/ModuleOpgave7",
     "title": "Klas cijferdiagram",
     "description": "Een applicatie die een diagram tekent met cijfers die behaalt zijn door klassen in een school, het diagram laat hoeveel elk cijfer binnen 1-10 behaalt is."
@@ -33,7 +33,7 @@
 
   {
     "id": "muntklikspelletje",
-    "img": "",
+    "img": "https://user-images.githubusercontent.com/59751559/110158715-0125b600-7dea-11eb-9dcd-0d8bfd8168e0.PNG",
     "url": "https://github.com/daniel1890/Java-Beginner-Processing3/tree/main/ModuleOpgave8",
     "title": "Munt klikspelletje",
     "description": "In het begin van elk level zijn er een aantal munten die in ruststaat wit zijn, het doel is om alle munten in zo min mogelijk beurten allemaal zwart te maken door op de munten te klikken."
@@ -41,7 +41,7 @@
 
   {
     "id": "kaartjesautomaatprocessing",
-    "img": "",
+    "img": "https://user-images.githubusercontent.com/59751559/110157311-4fd25080-7de8-11eb-85bd-1d1ad9d807fe.PNG",
     "url": "https://github.com/daniel1890/KaartjesAutomaatJavaProcessing3.0",
     "title": "Filmkaartjes automaat",
     "description": "Een user interface waarin de gebruiker een film kan selecteren en deze kan afrekenen, hierna krijgt de gebruiker een kaartje geprint."
@@ -49,7 +49,7 @@
 
   {
     "id": "calculatorjavaswing",
-    "img": "",
+    "img": "https://user-images.githubusercontent.com/59751559/110157308-4fd25080-7de8-11eb-887a-b4511ce4042e.PNG",
     "url": "https://github.com/daniel1890/JavaSwingApps/tree/main/03Calculator",
     "title": "Rekenmachine Java-Swing",
     "description": "Een simpele rekenmachine geschreven in Java met behulp van de Netbeans window builder."
@@ -57,11 +57,26 @@
 
   {
     "id": "spaceinvaders",
-    "img": "",
+    "img": "https://user-images.githubusercontent.com/59751559/110157315-51037d80-7de8-11eb-8fd2-b274f741bcb5.jpg",
     "url": "https://github.com/daniel1890/OOPJava1/tree/main/SpaceInvaders",
     "title": "Space Invaders Processing 3.0",
     "description": "De klassieke Space Invaders game gemaakt met de Processing 3.0 library geimporteerd naar Eclipse."
-  }
+  },
 
+  {
+    "id": "aoc2020",
+    "img": "https://user-images.githubusercontent.com/59751559/110157229-3df0ad80-7de8-11eb-82a3-38def6f5c40c.jpeg",
+    "url": "https://github.com/daniel1890/AdventOfCode2020Java",
+    "title": "Advent of Code 2020 in Java",
+    "description": "De eerste aantal dagen van Advent of Code 2020, erg pittige opdrachten en nog niet compleet er is kans dat ik dit project herstart in C#."
+  },
+
+  {
+    "id": "tictactoe",
+    "img": "https://user-images.githubusercontent.com/59751559/110157317-51037d80-7de8-11eb-987f-31a523f6edcd.PNG",
+    "url": "https://github.com/daniel1890/TicTacToeCSharp",
+    "title": "Tictactoe in WPF",
+    "description": "Een kleine tictactoe app gemaakt in WPF gemaakt om XAML te oefenen en werken met grids."
+  }
 
 ]
