@@ -4,3 +4,17 @@
     ViewData["Title"] = "Projects";
 }
 <h1>@ViewData["Title"]</h1>
+
+<div class="card-columns">
+    @foreach (var project in Model.Projects)
+    {
+        <div class="card">
+            <div class="card-img" style="background-image: url('@project.Image');"></div>
+            <div class="card-body">
+                <h5 class="card-title">
+                    @project.Title
+                </h5>
+            </div>
+        </div>
+    }
+</div>
