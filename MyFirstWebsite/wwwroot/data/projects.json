@@ -45,14 +45,23 @@
     "url": "https://github.com/daniel1890/KaartjesAutomaatJavaProcessing3.0",
     "title": "Filmkaartjes automaat",
     "description": "Een user interface waarin de gebruiker een film kan selecteren en deze kan afrekenen, hierna krijgt de gebruiker een kaartje geprint."
+  },
+
+  {
+    "id": "calculatorjavaswing",
+    "img": "",
+    "url": "https://github.com/daniel1890/JavaSwingApps/tree/main/03Calculator",
+    "title": "Rekenmachine Java-Swing",
+    "description": "Een simpele rekenmachine geschreven in Java met behulp van de Netbeans window builder."
+  },
+
+  {
+    "id": "spaceinvaders",
+    "img": "",
+    "url": "https://github.com/daniel1890/OOPJava1/tree/main/SpaceInvaders",
+    "title": "Space Invaders Processing 3.0",
+    "description": "De klassieke Space Invaders game gemaakt met de Processing 3.0 library geimporteerd naar Eclipse."
   }
-
-
-
-
-
-
-
 
 
 ]
