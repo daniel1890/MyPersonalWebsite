@@ -3,7 +3,7 @@
     "id": "stavendiagram",
     "img": "https://user-images.githubusercontent.com/59751559/110157307-4f39ba00-7de8-11eb-8cbc-4e5c04942d53.PNG",
     "url": "https://github.com/daniel1890/Java-Beginner-Processing3/tree/main/ModuleOpgave1",
-    "title": "Stavendiagram met een trendlijn",
+    "title": "Stavendiagram met een trendlijn in Processing 3.0",
     "description": "Simpel stavendiagram project gemaakt met processing 3.0, dit is het eerste project wat ik gemaakt heb."
   },
 
@@ -11,7 +11,7 @@
     "id": "schietschijf-spel",
     "img": "https://user-images.githubusercontent.com/59751559/110157313-506ae700-7de8-11eb-9a92-df232ce587df.PNG",
     "url": "https://github.com/daniel1890/Java-Beginner-Processing3/tree/main/ModuleOpgave4",
-    "title": "Schietschijf spel",
+    "title": "Schietschijf spel in Processing 3.0",
     "description": "Een project waar een schietschijf naar links en rechts beweegt, wanneer de speler erop schiet verdient zij punten. Geschreven in processing 3.0."
   },
 
@@ -19,7 +19,7 @@
     "id": "bmi-sliders",
     "img": "https://user-images.githubusercontent.com/59751559/110157305-4ea12380-7de8-11eb-8860-e3b2da02bf87.PNG",
     "url": "https://github.com/daniel1890/Java-Beginner-Processing3/tree/main/ModuleOpgave5",
-    "title": "BMI berekenen",
+    "title": "BMI berekenen in Processing 3.0",
     "description": "Een applicatie waar de gebruiker met twee sliders haar BMI kan berekenen."
   },
 
@@ -27,7 +27,7 @@
     "id": "klas-statistiekfuncties",
     "img": "https://user-images.githubusercontent.com/59751559/110157312-506ae700-7de8-11eb-9062-4cc1a94a2ba0.PNG",
     "url": "https://github.com/daniel1890/Java-Beginner-Processing3/tree/main/ModuleOpgave7",
-    "title": "Klas cijferdiagram",
+    "title": "Klas cijferdiagram in Processing 3.0",
     "description": "Een applicatie die een diagram tekent met cijfers die behaalt zijn door klassen in een school, het diagram laat hoeveel elk cijfer binnen 1-10 behaalt is."
   },
 
@@ -35,7 +35,7 @@
     "id": "muntklikspelletje",
     "img": "https://user-images.githubusercontent.com/59751559/110158715-0125b600-7dea-11eb-9dcd-0d8bfd8168e0.PNG",
     "url": "https://github.com/daniel1890/Java-Beginner-Processing3/tree/main/ModuleOpgave8",
-    "title": "Munt klikspelletje",
+    "title": "Munt klikspelletje in Processing 3.0",
     "description": "In het begin van elk level zijn er een aantal munten die in ruststaat wit zijn, het doel is om alle munten in zo min mogelijk beurten allemaal zwart te maken door op de munten te klikken."
   },
 
@@ -43,7 +43,7 @@
     "id": "kaartjesautomaatprocessing",
     "img": "https://user-images.githubusercontent.com/59751559/110157311-4fd25080-7de8-11eb-85bd-1d1ad9d807fe.PNG",
     "url": "https://github.com/daniel1890/KaartjesAutomaatJavaProcessing3.0",
-    "title": "Filmkaartjes automaat",
+    "title": "Filmkaartjes automaat in Processing 3.0",
     "description": "Een user interface waarin de gebruiker een film kan selecteren en deze kan afrekenen, hierna krijgt de gebruiker een kaartje geprint."
   },
 
@@ -77,6 +77,14 @@
     "url": "https://github.com/daniel1890/TicTacToeCSharp",
     "title": "Tictactoe in WPF",
     "description": "Een kleine tictactoe app gemaakt in WPF gemaakt om XAML te oefenen en werken met grids."
+  },
+
+  {
+    "id": "formpanelswing",
+    "img": "https://user-images.githubusercontent.com/59751559/110186312-1bc15480-7e15-11eb-90e2-da26954509d5.PNG",
+    "url": "https://github.com/daniel1890/JavaSwingApps/tree/main/05FormPanel",
+    "title": "Formpaneel in Java Swing",
+    "description": "Een simpele form waarin de gebruiker een naam en occupatie in kan vullen, oefening om event handlers en action listeners mee te oefenen."
   }
 
 ]

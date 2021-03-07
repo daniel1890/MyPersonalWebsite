@@ -14,11 +14,9 @@ namespace MyFirstWebsite.Pages
     {
         private readonly ILogger<ProjectsModel> _logger;
         public JsonFileProjectService ProjectService;
-        public IEnumerable<Project> Projects { get; private set; }
+        public IEnumerable<Project> Projects1 { get; private set; }
 
-        public ProjectsModel(
-            ILogger<ProjectsModel> logger,
-            JsonFileProjectService projectService)
+        public ProjectsModel(ILogger<ProjectsModel> logger, JsonFileProjectService projectService)
         {
             _logger = logger;
             ProjectService = projectService;
@@ -26,7 +24,7 @@ namespace MyFirstWebsite.Pages
 
         public void OnGet()
         {
-            Projects = ProjectService.GetProjects();
+            Projects1 = ProjectService.GetProjects();
         }
     }
 }
